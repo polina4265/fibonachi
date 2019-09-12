@@ -12,7 +12,6 @@ int main()
     if (number < 0)
     {
         cout << endl << "Error!";
-        return;
     }
 
     return 0;
